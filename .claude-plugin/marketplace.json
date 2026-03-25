@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-claude-skills",
+  "description": "liuyinglao's personal Claude Code skills collection",
+  "owner": {
+    "name": "liuyinglao"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "description": "Personal skills bundle including algorithmic art and more",
+      "source": "./plugins/my-skills",
+      "category": "productivity"
+    }
+  ]
+}
